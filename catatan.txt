@@ -1,0 +1,52 @@
+PROJECT BACKGROUND:
+Dalam industri ritel modern, pemanfaatan data pelanggan dan transaksi penjualan menjadi kunci untuk memahami dinamika pasar serta mendukung
+pengambilan keputusan bisnis yang lebih tepat. Dengan menganalisis data pembelian pelanggan yang mencakup informasi produk, diskon, lokasi,
+dan perilaku pelanggan, perusahaan dapat memperoleh wawasan yang bernilai untuk meningkatkan strategi penjualan dan mempertahankan loyalitas
+pelanggan.
+
+Proyek ini bertujuan untuk melakukan analisis terhadap data penjualan dan perilaku pelanggan guna menjawab beberapa pertanyaan bisnis penting, 
+antara lain:
+1. Product Performance Analysis: Mengidentifikasi kategori produk mana yang memberikan kontribusi pendapatan terbesar serta produk mana yang
+memiliki performa terendah.
+2. Impact of Discounts: Mengevaluasi apakah penerapan diskon benar-benar meningkatkan keuntungan atau justru menurunkan margin keuntungan.
+3. Regional Sales Analysis: Mengetahui kota mana yang memberikan pendapatan tertinggi bagi perusahaan, sebagai dasar untuk pengambilan
+keputusan distribusi dan ekspansi.
+4. Customer Analysis: Menelusuri faktor-faktor yang memengaruhi pelanggan untuk kembali melakukan pembelian, seperti diskon, pengalaman
+belanja, hingga kualitas produk.
+
+Melalui proses pembersihan data, analisis eksploratif (EDA), dan visualisasi, proyek ini diharapkan mampu memberikan
+insight yang mendalam terkait performa produk, efektivitas strategi promosi, potensi lokasi penjualan, serta strategi untuk meningkatkan
+loyalitas pelanggan. Hasil dari analisis ini dapat menjadi dasar untuk mengembangkan pendekatan pemasaran yang lebih personal dan efisien.
+
+# business questions:
+1. [PRODUCT PERFORMANCE ANALYSIS]
+- kategori produk apa yang menghasilkan revenue terbesar?
+- Apa produk yang memiliki perfoma terendah pada pendapatan?
+2. [IMPACT DISCOUNT]
+- Apakah diskon yang ditawarkan menghasilkan keuntungan lebih atau menurunkan margin?
+3. [ANALISIS TEMPAT]
+- Dimana kota yang menghasilkan keuntungan terbanyak?
+4. [CUSTOMER ANALYSIS]
+- Apa yang membuat pelanggan kembali lagi?
+
+# output project:
+insight, recommendation, dashboard
+---------------------------------------------------------------------------------------------------------------------------------------------
+# DATA STRUCTURE:
+link dataset : https://www.kaggle.com/datasets/logiccraftbyhimanshi/walmart-customer-purchase-behavior-dataset
+
+# penjelasan mengengai kolomnya :
+Customer_ID – Unique identifier for each customer.
+Age – Age of the customer.
+Gender – Gender of the customer (Male/Female/Other).
+City – City where the purchase was made.
+Category – Product category (e.g., Electronics, Clothing, Groceries).
+Product_Name – Name of the purchased product.
+Purchase_Date – Date of purchase.
+Purchase_Amount – Total amount spent on the purchase.
+Payment_Method – Mode of payment (Credit Card, Cash, Digital Wallet, etc.).
+Discount_Applied – Whether a discount was applied (Yes/No).
+Rating – Customer rating of the purchase (1-5).
+Repeat_Customer – Whether the customer has purchased before (Yes/No).
+
+# jumlahnya ada 50000 entries
