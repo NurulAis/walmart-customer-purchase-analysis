@@ -35,7 +35,7 @@ Dataset yang digunakan dalam analisis ini diperoleh dari Kaggle dan dapat diakse
 ![dashboard](dashboard2.png)
 
 **Product Performance Analysis**
-
+![visualisasi 1](output 1.png)
 **Impact of Discounts**
 
 **Regional Sales Analysis**
