@@ -8,11 +8,10 @@ Proyek ini bertujuan untuk melakukan analisis terhadap data penjualan dan perila
 antara lain:
 1. Product Performance Analysis: Mengidentifikasi kategori produk mana yang memberikan kontribusi pendapatan terbesar serta produk mana yang
 memiliki performa terendah.
-2. Impact of Discounts: Mengevaluasi apakah penerapan diskon benar-benar meningkatkan keuntungan atau justru menurunkan margin keuntungan.
+2. Impact of Discounts: Mengevaluasi apakah penerapan diskon benar-benar meningkatkan pendapatan.
 3. Regional Sales Analysis: Mengetahui kota mana yang memberikan pendapatan tertinggi bagi perusahaan, sebagai dasar untuk pengambilan
 keputusan distribusi dan ekspansi.
-4. Customer Analysis: Menelusuri faktor-faktor yang memengaruhi pelanggan untuk kembali melakukan pembelian, seperti diskon, pengalaman
-belanja, hingga kualitas produk.
+4. Customer Analysis: Menelusuri faktor-faktor yang memengaruhi pelanggan untuk kembali melakukan pembelian
 
 Melalui proses pembersihan data, analisis eksploratif (EDA), dan visualisasi, proyek ini diharapkan mampu memberikan
 insight yang mendalam terkait performa produk, efektivitas strategi promosi, potensi lokasi penjualan, serta strategi untuk meningkatkan
@@ -21,9 +20,8 @@ loyalitas pelanggan. Hasil dari analisis ini dapat menjadi dasar untuk mengemban
 # business questions:
 1. [PRODUCT PERFORMANCE ANALYSIS]
 - kategori produk apa yang menghasilkan revenue terbesar?
-- Apa produk yang memiliki perfoma terendah pada pendapatan?
 2. [IMPACT DISCOUNT]
-- Apakah diskon yang ditawarkan menghasilkan keuntungan lebih atau menurunkan margin?
+- Apakah diskon yang ditawarkan meningkatkan pendapatan?
 3. [ANALISIS TEMPAT]
 - Dimana kota yang menghasilkan keuntungan terbanyak?
 4. [CUSTOMER ANALYSIS]
