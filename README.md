@@ -33,3 +33,11 @@ Dataset yang digunakan dalam analisis ini diperoleh dari Kaggle dan dapat diakse
 
 # Summary
 ![dashboard](dashboard2.png)
+
+**Product Performance Analysis**
+
+**Impact of Discounts**
+
+**Regional Sales Analysis**
+
+**Customer Analysis**
