@@ -32,4 +32,4 @@ Dataset yang digunakan dalam analisis ini diperoleh dari Kaggle dan dapat diakse
 | `Repeat_Customer`  | Menunjukkan apakah pelanggan pernah membeli sebelumnya (Yes/No).          |
 
 # Summary
-![dashboard](E:\Data Science\portofolio\project-2\dashboard.png)
+![dashboard](dashboard.png)
