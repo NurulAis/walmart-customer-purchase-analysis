@@ -30,3 +30,5 @@ Dataset yang digunakan dalam analisis ini diperoleh dari Kaggle dan dapat diakse
 | `Discount_Applied` | Apakah diskon diterapkan pada pembelian (Yes/No).                        |
 | `Rating`           | Rating dari pelanggan terhadap pembelian (skala 1–5).                     |
 | `Repeat_Customer`  | Menunjukkan apakah pelanggan pernah membeli sebelumnya (Yes/No).          |
+
+# Summary
