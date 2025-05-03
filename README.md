@@ -37,8 +37,30 @@ Dataset yang digunakan dalam analisis ini diperoleh dari Kaggle dan dapat diakse
 **Product Performance Analysis**
 ![Visualisasi1](output1.png)
 
+- Product "Headphones" memberikan kontribusi pendapatan terbesar dengan total revenue sebesar $846878.56 dalam periode Februari 2024 – Februari 2025.
+- Produk dengan performa terendah adalah "Lipstick", dengan pendapatan sebesar $768327.28 dalam periode Februari 2024 - Februari 2025
+
+Recomendasi :
+- Selalu memastikan ketersediaan stok headphone tetap terjaga dan lakukan bundling untuk produk lipstik untuk melakukan upscaling
+
+
 **Impact of Discounts**
+- Diskon tidak meningkatkan pendapatan, tetapi menurunkan pendapatan dan berkurang sebesar $7036.779
+
+Rekomendasi :
+- Lakukan strategi lain selain memberikan diskon, seperti loyalty program untuk pembeli yang sering berbelanja atau voucher cashback sebagai alternatif program
 
 **Regional Sales Analysis**
 
+- Kota yang menghasilkan keuntungan terbesar berada di North Michael
+
+Rekomendasi :
+- Lakukan analisis terhadap karakteristik pelanggan di North Michael dan kembangkan strategi pemasaran yang tepat untuk mempertahankan pangsa pasar di wilayah tersebut.
+- Identifikasi faktor-faktor kunci yang mendorong performa tinggi di North Michael dan evaluasi potensi penerapannya di kota-kota lain untuk mendorong pertumbuhan penjualan secara merata.
+
 **Customer Analysis**
+- Tidak ada fitur yang memiliki pengaruh yang signifikan terhadap pelanggan yang kembali atau tidak
+
+Rekomendasi :
+- Evaluasi ulang variabel/fitur yang digunakan: Perluasan fitur yang lebih relevan
+- Lakukan analisis kualitatif tambahan: Misalnya survei atau wawancara pelanggan untuk memahami faktor non-kuantitatif yang memengaruhi loyalitas pelanggan.
